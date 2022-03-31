@@ -1,0 +1,10 @@
+{
+    "name": "hexlet-php-welcome/nght",
+    "description" : "idk",
+    "autoload": {
+        "psr-4": {
+            "HexletPhpWelcome\\Nght\\": "src/"
+        }
+    },
+    "require": {}
+}
